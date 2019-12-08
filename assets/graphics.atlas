@@ -1,0 +1,434 @@
+images {
+  image: "/assets/backgrounds/bg1.png"
+}
+images {
+  image: "/assets/backgrounds/bg2.png"
+}
+images {
+  image: "/assets/backgrounds/bg3.png"
+}
+images {
+  image: "/assets/backgrounds/bg4.png"
+}
+images {
+  image: "/assets/backgrounds/bg5.png"
+}
+images {
+  image: "/assets/backgrounds/stars.png"
+}
+images {
+  image: "/assets/effects/shield-1.png"
+}
+images {
+  image: "/assets/effects/shield-2.png"
+}
+images {
+  image: "/assets/enemies/baby_tentacle.png"
+}
+images {
+  image: "/assets/enemies/boss.png"
+}
+images {
+  image: "/assets/enemies/cruiser.png"
+}
+images {
+  image: "/assets/enemies/cyborg.png"
+}
+images {
+  image: "/assets/enemies/midboss.png"
+}
+images {
+  image: "/assets/enemies/myrmidon.png"
+}
+images {
+  image: "/assets/enemies/spider.png"
+}
+images {
+  image: "/assets/enemies/tentacle.png"
+}
+images {
+  image: "/assets/hud/energy-bar-fill.png"
+}
+images {
+  image: "/assets/hud/energy-bar.png"
+}
+images {
+  image: "/assets/hud/health-bar-fill.png"
+}
+images {
+  image: "/assets/hud/health-bar.png"
+}
+images {
+  image: "/assets/hud/life-empty.png"
+}
+images {
+  image: "/assets/hud/life-full.png"
+}
+images {
+  image: "/assets/hud/lives-icon.png"
+}
+images {
+  image: "/assets/items/ball.png"
+}
+images {
+  image: "/assets/items/bomb.png"
+}
+images {
+  image: "/assets/items/bubble.png"
+}
+images {
+  image: "/assets/items/crate-1.png"
+}
+images {
+  image: "/assets/items/crate-2.png"
+}
+images {
+  image: "/assets/items/power-up-1.png"
+}
+images {
+  image: "/assets/items/power-up-2.png"
+}
+images {
+  image: "/assets/items/power-up-3.png"
+}
+images {
+  image: "/assets/items/power-up-4.png"
+}
+images {
+  image: "/assets/items/power-up-5.png"
+}
+images {
+  image: "/assets/items/rocket-1.png"
+}
+images {
+  image: "/assets/items/rocket-2.png"
+}
+images {
+  image: "/assets/objects/black-hole.png"
+}
+images {
+  image: "/assets/objects/meteor-1.png"
+}
+images {
+  image: "/assets/objects/meteor-2.png"
+}
+images {
+  image: "/assets/objects/meteor-3.png"
+}
+images {
+  image: "/assets/objects/meteor-4.png"
+}
+images {
+  image: "/assets/objects/meteor-5.png"
+}
+images {
+  image: "/assets/objects/moon.png"
+}
+images {
+  image: "/assets/objects/planet-1.png"
+}
+images {
+  image: "/assets/objects/planet-2.png"
+}
+images {
+  image: "/assets/objects/star-1.png"
+}
+images {
+  image: "/assets/objects/star-2.png"
+}
+images {
+  image: "/assets/ships/red_ship.png"
+}
+images {
+  image: "/assets/ships/yellow_ship.png"
+}
+images {
+  image: "/assets/shots/1.png"
+}
+images {
+  image: "/assets/shots/10.png"
+}
+images {
+  image: "/assets/shots/11.png"
+}
+images {
+  image: "/assets/shots/12.png"
+}
+images {
+  image: "/assets/shots/2.png"
+}
+images {
+  image: "/assets/shots/3.png"
+}
+images {
+  image: "/assets/shots/4.png"
+}
+images {
+  image: "/assets/shots/5.png"
+}
+images {
+  image: "/assets/shots/6.png"
+}
+images {
+  image: "/assets/shots/7.png"
+}
+images {
+  image: "/assets/shots/8.png"
+}
+images {
+  image: "/assets/shots/9.png"
+}
+animations {
+  id: "fx1"
+  images {
+    image: "/assets/effects/fx1_1.png"
+  }
+  images {
+    image: "/assets/effects/fx1_2.png"
+  }
+  images {
+    image: "/assets/effects/fx1_3.png"
+  }
+  images {
+    image: "/assets/effects/fx1_4.png"
+  }
+  images {
+    image: "/assets/effects/fx1_5.png"
+  }
+  images {
+    image: "/assets/effects/fx1_6.png"
+  }
+  playback: PLAYBACK_ONCE_FORWARD
+  fps: 8
+  flip_horizontal: 0
+  flip_vertical: 0
+}
+animations {
+  id: "fx2"
+  images {
+    image: "/assets/effects/fx2_1.png"
+  }
+  images {
+    image: "/assets/effects/fx2_2.png"
+  }
+  images {
+    image: "/assets/effects/fx2_3.png"
+  }
+  images {
+    image: "/assets/effects/fx2_4.png"
+  }
+  images {
+    image: "/assets/effects/fx2_5.png"
+  }
+  images {
+    image: "/assets/effects/fx2_6.png"
+  }
+  playback: PLAYBACK_ONCE_FORWARD
+  fps: 8
+  flip_horizontal: 0
+  flip_vertical: 0
+}
+animations {
+  id: "fx3"
+  images {
+    image: "/assets/effects/fx3_1.png"
+  }
+  images {
+    image: "/assets/effects/fx3_2.png"
+  }
+  images {
+    image: "/assets/effects/fx3_3.png"
+  }
+  images {
+    image: "/assets/effects/fx3_4.png"
+  }
+  images {
+    image: "/assets/effects/fx3_5.png"
+  }
+  playback: PLAYBACK_ONCE_FORWARD
+  fps: 8
+  flip_horizontal: 0
+  flip_vertical: 0
+}
+animations {
+  id: "fx4"
+  images {
+    image: "/assets/effects/fx4_1.png"
+  }
+  images {
+    image: "/assets/effects/fx4_2.png"
+  }
+  images {
+    image: "/assets/effects/fx4_3.png"
+  }
+  images {
+    image: "/assets/effects/fx4_4.png"
+  }
+  images {
+    image: "/assets/effects/fx4_5.png"
+  }
+  images {
+    image: "/assets/effects/fx4_6.png"
+  }
+  playback: PLAYBACK_ONCE_FORWARD
+  fps: 8
+  flip_horizontal: 0
+  flip_vertical: 0
+}
+animations {
+  id: "fx5"
+  images {
+    image: "/assets/effects/fx5_1.png"
+  }
+  images {
+    image: "/assets/effects/fx5_2.png"
+  }
+  images {
+    image: "/assets/effects/fx5_3.png"
+  }
+  images {
+    image: "/assets/effects/fx5_4.png"
+  }
+  images {
+    image: "/assets/effects/fx5_5.png"
+  }
+  playback: PLAYBACK_ONCE_FORWARD
+  fps: 8
+  flip_horizontal: 0
+  flip_vertical: 0
+}
+animations {
+  id: "fx6"
+  images {
+    image: "/assets/effects/fx6_1.png"
+  }
+  images {
+    image: "/assets/effects/fx6_2.png"
+  }
+  images {
+    image: "/assets/effects/fx6_3.png"
+  }
+  images {
+    image: "/assets/effects/fx6_4.png"
+  }
+  images {
+    image: "/assets/effects/fx6_5.png"
+  }
+  images {
+    image: "/assets/effects/fx6_6.png"
+  }
+  playback: PLAYBACK_ONCE_FORWARD
+  fps: 8
+  flip_horizontal: 0
+  flip_vertical: 0
+}
+animations {
+  id: "fx7"
+  images {
+    image: "/assets/effects/fx7_1.png"
+  }
+  images {
+    image: "/assets/effects/fx7_2.png"
+  }
+  images {
+    image: "/assets/effects/fx7_3.png"
+  }
+  images {
+    image: "/assets/effects/fx7_4.png"
+  }
+  images {
+    image: "/assets/effects/fx7_5.png"
+  }
+  images {
+    image: "/assets/effects/fx7_6.png"
+  }
+  images {
+    image: "/assets/effects/fx7_7.png"
+  }
+  images {
+    image: "/assets/effects/fx7_8.png"
+  }
+  playback: PLAYBACK_ONCE_FORWARD
+  fps: 8
+  flip_horizontal: 0
+  flip_vertical: 0
+}
+animations {
+  id: "blue_gem"
+  images {
+    image: "/assets/items/blue_gem_1.png"
+  }
+  images {
+    image: "/assets/items/blue_gem_2.png"
+  }
+  images {
+    image: "/assets/items/blue_gem_3.png"
+  }
+  images {
+    image: "/assets/items/blue_gem_4.png"
+  }
+  playback: PLAYBACK_ONCE_FORWARD
+  fps: 8
+  flip_horizontal: 0
+  flip_vertical: 0
+}
+animations {
+  id: "purple_gem"
+  images {
+    image: "/assets/items/purple_gem_1.png"
+  }
+  images {
+    image: "/assets/items/purple_gem_2.png"
+  }
+  images {
+    image: "/assets/items/purple_gem_3.png"
+  }
+  images {
+    image: "/assets/items/purple_gem_4.png"
+  }
+  playback: PLAYBACK_ONCE_FORWARD
+  fps: 8
+  flip_horizontal: 0
+  flip_vertical: 0
+}
+animations {
+  id: "red_gem"
+  images {
+    image: "/assets/items/red_gem_1.png"
+  }
+  images {
+    image: "/assets/items/red_gem_2.png"
+  }
+  images {
+    image: "/assets/items/red_gem_3.png"
+  }
+  images {
+    image: "/assets/items/red_gem_4.png"
+  }
+  playback: PLAYBACK_ONCE_FORWARD
+  fps: 8
+  flip_horizontal: 0
+  flip_vertical: 0
+}
+animations {
+  id: "yellow_gem"
+  images {
+    image: "/assets/items/yellow_gem_1.png"
+  }
+  images {
+    image: "/assets/items/yellow_gem_2.png"
+  }
+  images {
+    image: "/assets/items/yellow_gem_3.png"
+  }
+  images {
+    image: "/assets/items/yellow_gem_4.png"
+  }
+  playback: PLAYBACK_ONCE_FORWARD
+  fps: 8
+  flip_horizontal: 0
+  flip_vertical: 0
+}
+margin: 0
+extrude_borders: 2
+inner_padding: 0

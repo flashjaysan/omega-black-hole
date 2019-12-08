@@ -1,2 +1,22 @@
 name: "main"
+collection_instances {
+  id: "player_ship"
+  collection: "/game_elements/player_ship/player_ship.collection"
+  position {
+    x: 113.0
+    y: 56.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
 scale_along_z: 0
